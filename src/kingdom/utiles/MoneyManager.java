@@ -7,7 +7,7 @@ package kingdom.utiles;
 /**
  * Implementation has to implement single method to move some amount of money from source to destination.
  * Money for user are stored in array int[c1, c5, c10, c50, c100]
- * @author andriy
+ * 
  */
 public final class MoneyManager {
     
